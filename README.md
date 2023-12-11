@@ -6,11 +6,10 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 
 ![image](https://github.com/raghav20232023/raghav20232023/assets/153320363/6b861087-f603-4b7f-82ed-3d4f5c59f1db)
 
-
-    🔍 Exploring the Depths: I'm on a continuous journey of exploring and mastering the intricacies of data structures and algorithms.
-    💻 Languages of Choice: Proficient in Java and Python, I leverage these languages to build robust and scalable solutions.
-    🌟 Passionate Coder: I thrive on the challenges of coding and find joy in creating solutions that make a difference.
-    📚 Continuous Learner: The tech world evolves rapidly, and I'm committed to staying on the cutting edge by constantly learning and adapting.
+🔍 Exploring the Depths: I'm on a continuous journey of exploring and mastering the intricacies of data structures and algorithms.
+💻 Languages of Choice: Proficient in Java and Python, I leverage these languages to build robust and scalable solutions.
+🌟 Passionate Coder: I thrive on the challenges of coding and find joy in creating solutions that make a difference.
+📚 Continuous Learner: The tech world evolves rapidly, and I'm committed to staying on the cutting edge by constantly learning and adapting.
     
 ## 🛠️ Technologies & Tools
 
@@ -20,7 +19,7 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 ![image](https://github.com/raghav20232023/raghav20232023/assets/153320363/8c84bef2-a1a8-4d05-a1e0-7b12b90e3e70)
 
 -Python
-![image](https://github.com/raghav20232023/raghav20232023/assets/153320363/e0b12155-ecfd-4668-a71e-5816bd412de4)
+![image](https://github.com/raghav20232023/raghav20232023/assets/153320363/17fdef13-735e-462a-8aa5-5371f49d990c)
 
    
 - **Data Structures:** Arrays, Linked Lists, Trees, Graphs, Hash Tables
