@@ -19,7 +19,8 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 
 
 ## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
+![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&theme=transparent)
+![Raghav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
 
 🌱 What Drives Me
 I'm passionate about creating robust, scalable, and maintainable software solutions. The thrill of optimizing code and solving intricate problems is what keeps me motivated. I'm constantly exploring new concepts, staying up-to-date with the latest trends in the world of computer science.
