@@ -14,8 +14,6 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 
 
 ## 📈 GitHub Stats
-##Accepted and Merged Pull Requests (Open Source Contributions):
-[Added matches to all pytest raises/warns #7866]
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&theme=transparent)
 
 🌱 What Drives Me
