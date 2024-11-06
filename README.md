@@ -7,7 +7,7 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 🌟 Passionate Coder: I thrive on the challenges of coding and find joy in creating solutions that make a difference.
 📚 Continuous Learner: The tech world evolves rapidly, and I'm committed to staying on the cutting edge by constantly learning and adapting.
     
-- **Languages and tools:** Python, Java, C++, HTML, CSS, \LaTex
+- **Languages and tools:** Python, Java, C++, HTML, CSS, \LaTex{}
 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&count_private=true&hide=prs,issues,contribs&theme=radical)
