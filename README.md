@@ -1,11 +1,6 @@
 # 👋 Welcome!
 
 Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer with a love for contributing to open source and data structures and algorithms. I specialize in using Python and Java to craft efficient and elegant solutions to complex problems. Welcome to my corner of the coding universe! 🌐
-
-🔍 Exploring the Depths: I'm on a continuous journey of exploring and mastering the intricacies of open source and data structures and algorithms.
-💻 Languages of Choice: Proficient in Python and Java, I leverage these languages to build robust and scalable solutions.
-🌟 Passionate Coder: I thrive on the challenges of coding and find joy in creating solutions that make a difference.
-📚 Continuous Learner: The tech world evolves rapidly, and I'm committed to staying on the cutting edge by constantly learning and adapting.
     
 - **Languages** **Python**, Java, C++, **HTML, CSS, JS**, SwiftUI, **L<sup>A</sup>T<sub>E</sub>X**, **PostgreSQL, MySQL, Bash**
 - **Python and related Frameworks:** **Flask, Jinja2, SQLAlchemy**, familiar with other Python frameworks as well
