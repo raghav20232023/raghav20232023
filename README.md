@@ -12,6 +12,8 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 - **working with dockers, Virtual Machines (preferred - VMWare Workstation/Fusion Pro**)
 - Familiar with general hardware and networking 
 
+## Accepted and Merged Pull Requests (Open Source Contributions):
+[Added matches to all pytest raises/warns #7866](https://github.com/sunpy/sunpy/pull/7866)
 
 ## 📈 GitHub Stats
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&theme=transparent)
