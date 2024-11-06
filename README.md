@@ -7,7 +7,7 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 🌟 Passionate Coder: I thrive on the challenges of coding and find joy in creating solutions that make a difference.
 📚 Continuous Learner: The tech world evolves rapidly, and I'm committed to staying on the cutting edge by constantly learning and adapting.
     
-- **Languages** **Python**, Java, C++, **HTML, CSS, JS**, SwiftUI L<sup>A</sup>T<sub>E</sub>X, **PostgreSQL, MySQL, Bash**
+- **Languages** **Python**, Java, C++, **HTML, CSS, JS**, SwiftUI, **L<sup>A</sup>T<sub>E</sub>X**, **PostgreSQL, MySQL, Bash**
 - **Python and related Frameworks:** **Flask, Jinja2, SQLAlchemy**, familiar with other Python frameworks as well
 - **Python and related Tools:** : **Google Colab, Jupyter, Pycharm, Spyder, VSCode**, SublimeText, **DB Browser, pgAdmin**
 - also proficient in working with other IDE's like IntelliJ Idea (JetBrains), Eclipse, XCode etc.
