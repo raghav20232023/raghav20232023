@@ -14,7 +14,7 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 - **Proficient in working with raw terminal and system commands along with editors like Vim, Emacs etc**
 - **Office Tools:** Proficient in all MS Office suite of office tools, LibreOffice, OpenOffice etc.
 - **OS familiarity:** **preferred-Linux(preferred distro : Ubuntu KDE Plasma, familiarity with most distros)**, MacOS, Windows, Android, iOS
-- **working with dockers, Virtual Machines (preferred - VMWare Workstation/Fusion Pro**
+- **working with dockers, Virtual Machines (preferred - VMWare Workstation/Fusion Pro**)
 - Familiar with general hardware and networking 
 
 
