@@ -24,7 +24,7 @@ I'm passionate about creating robust, scalable, and maintainable software soluti
 ## 📫 Let's Connect!
 Feel free to reach out and connect with me. I'm always open to interesting discussions and collaborations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav_Agrawal-blue)](https://www.linkedin.com/in/raghav20232023/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Raghav_Agrawal-blue)](www.linkedin.com/in/raghav-agrawal-63b1132a4)
 Email 📧 : raghav20232023@gmail.com
 
 🌟 Thank You!
