@@ -11,6 +11,7 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 - **OS familiarity:** **preferred-Linux(preferred distro : Ubuntu KDE Plasma, familiarity with most distros)**, MacOS, Windows, Android, iOS
 - **working with dockers, Virtual Machines (preferred - VMWare Workstation/Fusion Pro**)
 - Familiar with general hardware and networking - worked extensively with **Arduino, Raspberry Pi, IoT, circuit-electronics, modules and drivers etc**
+- Proficient in **all tech support**
 
 ## Accepted and Merged Pull Requests (Open Source Contributions):
 [Added matches to all pytest raises/warns #7866](https://github.com/sunpy/sunpy/pull/7866)
