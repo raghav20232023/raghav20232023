@@ -25,6 +25,4 @@ I'm passionate about creating robust, scalable, and maintainable software soluti
 ## 📫 Let's Connect!
 Feel free to reach out and connect with me. I'm always open to interesting discussions and collaborations.
 
-Email 📧 : raghav20232023@gmail.com
-
 🌟 Thank You!
