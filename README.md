@@ -13,9 +13,9 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 - Familiar with general hardware and networking - worked extensively with **Arduino, Raspberry Pi, IoT, circuit-electronics, modules and drivers etc**
 - Proficient in **all tech support**
 
-## Accepted and Merged Pull Requests (Open Source Contributions):
+<!-- ## Accepted and Merged Pull Requests (Open Source Contributions):
 [Added matches to all pytest raises/warns #7866](https://github.com/sunpy/sunpy/pull/7866)
-
+-->
 <!---
 ## 📈 GitHub Stats
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=issues)
