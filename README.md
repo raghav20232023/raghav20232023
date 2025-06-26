@@ -1,6 +1,6 @@
-# 👋 Welcome!
+# Welcome!
 
-Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer with a love for contributing to open source and data structures and algorithms. I specialize in using Python and Java to craft efficient and elegant solutions to complex problems.
+Hello there! I'm Raghav Agrawal, a passionate computer science programmer with a love for contributing to open source and data structures and algorithms. I specialize in using Python and Java to craft efficient and elegant solutions to complex problems.
     
 - **Languages:** **Python**, Java, C++, **HTML, CSS, JS**, SwiftUI, **L<sup>A</sup>T<sub>E</sub>X**, **PostgreSQL, MySQL, Bash**
 - **Python and related Frameworks:** **Flask, Jinja2, SQLAlchemy**, familiar with other Python frameworks as well
@@ -20,10 +20,10 @@ Hello there! 👋 I'm Raghav Agrawal, a passionate computer science programmer w
 ## 📈 GitHub Stats
 ![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=issues)
 -->
-🌱 What Drives Me :
+## --> What Drives Me :
 I'm passionate about creating robust, scalable, and maintainable software solutions. The thrill of optimizing code and solving intricate problems is what keeps me motivated. I'm constantly exploring new concepts, staying up-to-date with the latest trends in the world of computer science.
 
-## 📫 Let's Connect!
+## --> Let's Connect!
 Feel free to reach out and connect with me. I'm always open to interesting discussions and collaborations.
 
 🌟 Thank You!
