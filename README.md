@@ -8,7 +8,7 @@ Hello there! I'm Raghav Agrawal, a passionate computer science programmer with a
 - also proficient in working with other IDE's like IntelliJ Idea (JetBrains), Eclipse, XCode etc.
 - **Proficient in working with raw terminal and system commands along with editors like Vim, Emacs etc**
 - **Office Tools:** Proficient in all MS Office suite of office tools, LibreOffice, OpenOffice etc.
-- **OS familiarity:** **preferred-Linux(preferred distro : Ubuntu KDE Plasma, familiarity with most distros)**, MacOS, Windows, Android, iOS
+- **OS familiarity:** **preferred-Linux(familiarity with most distros)**, MacOS, Windows, Android, iOS
 - **working with dockers, Virtual Machines (preferred - VMWare Workstation/Fusion Pro**)
 - Familiar with general hardware and networking - worked extensively with **Arduino, Raspberry Pi, IoT, circuit-electronics, modules and drivers etc**
 - Proficient in **all tech support**
