@@ -11,19 +11,7 @@ Hello there! I'm Raghav Agrawal, a passionate computer science programmer with a
 - **OS familiarity:** **preferred-Linux(familiarity with most distros)**, MacOS, Windows, Android, iOS
 - **working with dockers, Virtual Machines (preferred - VMWare Workstation/Fusion Pro**)
 - Familiar with general hardware and networking - worked extensively with **Arduino, Raspberry Pi, IoT, circuit-electronics, modules and drivers etc**
-- Proficient in **all tech support**
 
-<!-- ## Accepted and Merged Pull Requests (Open Source Contributions):
-[Added matches to all pytest raises/warns #7866](https://github.com/sunpy/sunpy/pull/7866)
--->
-<!---
-## 📈 GitHub Stats
-![Raghav's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghav20232023&show_icons=true&theme=transparent&show=prs_merged,prs_merged_percentage&hide_rank=true&hide=issues)
--->
-## What Drives Me :
-I'm passionate about creating robust, scalable, and maintainable software solutions. The thrill of optimizing code and solving intricate problems is what keeps me motivated. I'm constantly exploring new concepts, staying up-to-date with the latest trends in the world of computer science.
-
-## Let's Connect!
 Feel free to reach out and connect with me. I'm always open to interesting discussions and collaborations.
 
 Thank You!
